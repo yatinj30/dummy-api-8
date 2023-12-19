@@ -1,82 +1,317 @@
 {
-    "appTitle": "Ram Ringtones & Aarti",
+    "appTitle": "Ram Ringtones & Wallpaper",
     "appSplashLogo": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
     "mainScreenContent": {
         "mainListView": [
             {
-                "listName": "Aarti Full Songs",
+                "listName": "All Collection",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "isShuffle": false,
                 "songs": [
                     {
-                        "title": "Ganpati Gajanan",
+                        "title": "Aathma Rama",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganpati+Gajanan.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganpat Ganesh",
+                        "title": "Hamare Sath Shree Raghunath",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganpat+Ganesh(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hamare_sath_shree_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hamare_sath_shree_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Gayatri",
+                        "title": "Har Ghar Me",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh+Gayatri(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/har_ghar_me.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/har_ghar_me.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Jay Ganesh Jay Ganesh",
-                        "subTitle": "Traditional Aarti",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh-Ji-Ki-Aarti(PaglaSongs).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "title": "Hare Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hare_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hare_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Mantra",
+                        "title": "Hare Rama Hare Krishna",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh+Mantra(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hare_rama_hare_krishna.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hare_rama_hare_krishna.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Chalisa",
+                        "title": "Hari Anant Hari Katha Ananta",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Ganesh+Chalisa(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hari_anant_hari_katha_ananta.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hari_anant_hari_katha_ananta.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Deva Shree Ganesha",
+                        "title": "Hum Katha Sunate Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Deva+Shree+Ganesha.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Sukh Karta Dukh Harta",
+                        "title": "Hum Katha Sunate",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Song/Sukh+Karta+Dukh+Harta(PagalWorld.com.se).mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate.png",
                         "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Jai Shri Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_jai_shri_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_jai_shri_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Shri Ram Sound",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_shri_ram_sound.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_shri_ram_sound.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Siya Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Siya Ram 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram+(1).mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram+(1).png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Kaushalya Dashrath Nandan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/kaushalya_dashrath_nandan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/kaushalya_dashrath_nandan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Man Mandir Ke Darpan Mein",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/man_mandir_ke_darpan_mein.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/man_mandir_ke_darpan_mein.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Man Mandir Ke Darpan Mein 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/man_mandir_ke_darpan_mein_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/man_mandir_ke_darpan_mein_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari 3",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari_3.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mere Ghar Ram Aaye Hai",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mere Ghar Ram Aaye Hai 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Raghupati Ki Jai Bole Lakshman",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/raghupati_ki_jai_bole_lakshman.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/raghupati_ki_jai_bole_lakshman.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Aayenge",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Ayenge",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_ayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_ayenge.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Chandra",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_chandra.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_chandra.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Darshan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_darshan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_darshan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Narayan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_narayan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_narayan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram 3",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram_3.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan Flute",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_flute.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_flute.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan Title Tone",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_title_tone.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_title_tone.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ram Prabhu Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shree_ram_prabhu_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shree_ram_prabhu_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shri Ram Jai Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ram_jai_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ram_jai_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ram Ram Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ram_ram_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ram_ram_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ramchandra Kripalu Bgm",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu_bgm.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu_bgm.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ramchandra Kripalu",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Siya Ram Naam",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/siya_ram_naam.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/siya_ram_naam.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
                     }
                 ]
             },
@@ -87,124 +322,90 @@
                 "isShuffle": true,
                 "songs": [
                     {
-                        "title": "CHICHHAAS KA GANESH",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHICHHAAS+KA+GANESH.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "title": "Aathma Rama",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Deva Shree Ganesha",
+                        "title": "Hamare Sath Shree Raghunath",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/deva-shree-ganesha-muskurahat-com-5029.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/a703cc492e52715641d3571e8c026898.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hamare_sath_shree_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hamare_sath_shree_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANAPATHI DHYANA",
+                        "title": "Har Ghar Me",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANAPATHI+DHYANA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/har_ghar_me.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/har_ghar_me.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Bhaje Vrajaika Mandanam Samast Per Pakhand Naam",
+                        "title": "Jai Shri Ram Sound",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/bhaje-vrajaika-mandanam-samast-per-pakhand-naam.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_shri_ram_sound.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_shri_ram_sound.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ek dantay",
+                        "title": "Kaushalya Dashrath Nandan",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/cutted-001-1636.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/kaushalya_dashrath_nandan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/kaushalya_dashrath_nandan.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "AA DEV BAPPA AALE",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_18_14_03_57_AA-DEV-BAPPA-AALE-RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "CHOTO SO VINAYAK DAGMAG CHALE",
+                        "title": "Man Mandir Ke Darpan Mein",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHOTO+SO+VINAYAK+DAGMAG+CHALE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/man_mandir_ke_darpan_mein.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/man_mandir_ke_darpan_mein.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Deva Shri Ganesha",
+                        "title": "Mangal Bhavan Amangal Hari",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/deva-shri-ganesha-18840.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANPATI INSTRUMENTAL MUSIC",
+                        "title": "Mere Ghar Ram Aaye Hai",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_24_05_45_23_GANPATI-INSTRUMENTAL-MUSIC-RINGTONE-DOWNLOAD.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "AA DEV BAPPA AALE",
+                        "title": "Ram Siya Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/BAPPA+CHALALE+AAPLYA+GAVALA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Shubh hi shub - SHRI GANESHA MORYA",
+                        "title": "Shree Ramchandra Kripalu Bgm",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2023_09_17_03_13_37_SHRI-GANESHA-MORYA-RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu_bgm.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu_bgm.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GALLI KA GANESH",
+                        "title": "Shree Ramchandra Kripalu",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GALLI+KA+GANESH.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(4).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ek Dantay Vakratunday dheemhi",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ekdantay-vakratunday-dheemhi-16695-47563.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "GAJAMUKHANE GANAPATHIYE",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GAJAMUKHANE+GANAPATHIYE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -217,119 +418,82 @@
                 "isShuffle": true,
                 "songs": [
                     {
-                        "title": "JAI GANESH JAI GANESH JAI GANESH DEVA INSTRUMENTAL",
+                        "title": "Aathma Rama",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+GANESH+JAI+GANESH+JAI+GANESH+DEVA+INSTRUMENTAL.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/a703cc492e52715641d3571e8c026898.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANESH CHATURTHI RINGTONE",
+                        "title": "Har Ghar Me",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANESH+CHATURTHI+RINGTONE.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/har_ghar_me.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/har_ghar_me.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANPATI BAPPA MORYA MANGAL MURTI MORYA",
+                        "title": "Hari Anant Hari Katha Ananta",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANPATI+BAPPA+MORYA+MANGAL+MURTI+MORYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hari_anant_hari_katha_ananta.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hari_anant_hari_katha_ananta.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "JAI BOLO GANESH MAHARAJ",
+                        "title": "Jai Jai Shri Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_jai_shri_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_jai_shri_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Panchratna",
+                        "title": "Jai Shri Ram Sound",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Panchratna+!+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_shri_ram_sound.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_shri_ram_sound.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Atharvashirsha",
+                        "title": "Jai Siya Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ghar me padharo",
+                        "title": "Mere Ghar Ram Aaye Hai",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/ganesh-ji-tone-3182.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "MAZA BAPPA KITI GOD DISTO",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/MAZA+BAPPA+KITI+GOD+DISTO.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
+                        "title": "Mere Ghar Ram Aaye Hai 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai_2.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANPATI AAYO BAPA",
+                        "title": "Ram Aayenge",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANPATI+AAYO+BAPA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "KARO BANDHAN HAI SHIVNANDAN",
+                        "title": "Ram Ayenge",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/KARO+BANDHAN+HAI+SHIVNANDAN.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "HI SAMUNDARACHI LAT",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "GANESH ANTHEM",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/GANESH+ANTHEM+.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Vighneshvaray varday surpriyay",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Namavali+09.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Jai Ganesh Deva",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/jai-ganesh-deva-152.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_ayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_ayenge.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -342,198 +506,100 @@
                 "isShuffle": true,
                 "songs": [
                     {
-                        "title": "Tamev mata",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Shri Ganesh Namavali",
+                        "title": "Ram Aayenge",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shri+Ganesh+Namavali+-+Ganesh+Stotram+!+Marathi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "SUN PAVALANI ALE BAPPA",
+                        "title": "Ram Ayenge",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/SUN+PAVALANI+ALE+BAPPA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_ayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_ayenge.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "RANAT BHAWAR SU AAEYA",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANAT+BHAWAR+SU+AAEYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "PRATHAM GANESH BESADO",
-                        "subTitle": "Gujarati Anthem",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PRATHAM+GANESH+BESADO.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "SUKH KARTA DUKH HARTA INSTRUMENTAL",
+                        "title": "Ram Chandra",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/SUKH+KARTA+DUKH+HARTA+INSTRUMENTAL.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_chandra.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_chandra.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "VEERA VINAYAKA",
+                        "title": "Ram Darshan",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/VEERA+VINAYAKA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_darshan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_darshan.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Shubhnyna Krunamy Gourihar",
+                        "title": "Ram Narayan",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shubhnyna+Krunamy+Gourihar+!+Shee+Ganesh+!+Devotional+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_narayan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_narayan.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "OM SHRIM BHRIM KLIM GANESH MANTRA",
+                        "title": "Ramayan Flute",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/OM+SHRIM+BHRIM+KLIM+GANESH+MANTRA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(4).jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_flute.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_flute.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "RANJAN GAVALA GAVALA MAHAGANPATI NANDLA",
-                        "subTitle": "Marathi Ringtone",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANJAN+GAVALA+GAVALA+MAHAGANPATI+NANDLA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
+                        "title": "Ramayan Title Tone",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_title_tone.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_title_tone.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "TUCH SUKHAKARTA TUCH DUKHHARTA",
+                        "title": "Shree Ramchandra Kripalu",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/TUCH+SUKHAKARTA+TUCH+DUKHHARTA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/a703cc492e52715641d3571e8c026898.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "PUTRA GANPATI GANPATI",
+                        "title": "Mere Ghar Ram Aaye Hai",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PUTRA+GANPATI+GANPATI.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "TERA HI NAAM PUKARU MEIN",
+                        "title": "Jai Siya Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/TERA+HI+NAAM+PUKARU+MEIN.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Sankata Nashak Ganesh - Stotram",
+                        "title": "Hare Rama Hare Krishna",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Sankata+Nashak+Ganesh+-+Stotram.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hare_rama_hare_krishna.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hare_rama_hare_krishna.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "VAKRATUNDA MAHAKAYA",
+                        "title": "Aathma Rama",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/VAKRATUNDA+MAHAKAYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
-                    }
-                ]
-            },
-            {
-                "listName": "Marathi Ringtones",
-                "isDisplay": true,
-                "itemDisplay": 4,
-                "isShuffle": true,
-                "songs": [
-                    {
-                        "title": "Shri Ganesh Namavali",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Shri+Ganesh+Namavali+-+Ganesh+Stotram+!+Marathi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Tamev mata",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Tamev+mata.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "CHICHHAAS KA GANESH",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/CHICHHAAS+KA+GANESH.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "RANAT BHAWAR SU AAEYA",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANAT+BHAWAR+SU+AAEYA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "RANJAN GAVALA GAVALA MAHAGANPATI NANDLA",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/RANJAN+GAVALA+GAVALA+MAHAGANPATI+NANDLA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "HI SAMUNDARACHI LAT",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/HI+SAMUNDARACHI+LAT.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "MAZA BAPPA KITI GOD DISTO",
-                        "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/MAZA+BAPPA+KITI+GOD+DISTO.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": [
-                            {
-                                "image": "https://mahadev-app.s3.ap-south-1.amazonaws.com/Images/Mahadev-icon.png",
-                                "link": "https://play.google.com/store/apps/details?id=com.uniquetechmedia.mahadevringtonesnew"
-                            }
-                        ]
                     }
                 ]
             },
@@ -544,50 +610,306 @@
                 "isShuffle": true,
                 "songs": [
                     {
-                        "title": "VEERA VINAYAKA",
+                        "title": "Aathma Rama",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/VEERA+VINAYAKA.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "PUTRA GANPATI GANPATI",
+                        "title": "Hamare Sath Shree Raghunath",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/PUTRA+GANPATI+GANPATI.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hamare_sath_shree_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hamare_sath_shree_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Deva Shree Ganesha",
+                        "title": "Har Ghar Me",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/deva-shree-ganesha-muskurahat-com-5029.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/a703cc492e52715641d3571e8c026898.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/har_ghar_me.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/har_ghar_me.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "JAI BOLO GANESH MAHARAJ",
+                        "title": "Hare Ram",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/JAI+BOLO+GANESH+MAHARAJ.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hare_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hare_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "GANPATI INSTRUMENTAL MUSIC",
+                        "title": "Hare Rama Hare Krishna",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/2022_04_24_05_45_23_GANPATI-INSTRUMENTAL-MUSIC-RINGTONE-DOWNLOAD.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hare_rama_hare_krishna.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hare_rama_hare_krishna.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ganesh Atharvashirsha",
+                        "title": "Hari Anant Hari Katha Ananta",
                         "subTitle": "",
-                        "songLink": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Rington/Ganesh+Atharvashirsha+-+Ganapathy+Stotram+!+Hindi.mp3",
-                        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hari_anant_hari_katha_ananta.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hari_anant_hari_katha_ananta.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Hum Katha Sunate Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Hum Katha Sunate",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Jai Shri Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_jai_shri_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_jai_shri_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Shri Ram Sound",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_shri_ram_sound.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_shri_ram_sound.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Siya Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Jai Siya Ram 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/jai_siya_ram+(1).mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/jai_siya_ram+(1).png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Kaushalya Dashrath Nandan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/kaushalya_dashrath_nandan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/kaushalya_dashrath_nandan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Man Mandir Ke Darpan Mein",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/man_mandir_ke_darpan_mein.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/man_mandir_ke_darpan_mein.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Man Mandir Ke Darpan Mein 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/man_mandir_ke_darpan_mein_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/man_mandir_ke_darpan_mein_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mangal Bhavan Amangal Hari 3",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mangal_bhavan_amangal_hari_3.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mangal_bhavan_amangal_hari_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mere Ghar Ram Aaye Hai",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Mere Ghar Ram Aaye Hai 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/mere_ghar_ram_aaye_hai_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/mere_ghar_ram_aaye_hai_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Raghupati Ki Jai Bole Lakshman",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/raghupati_ki_jai_bole_lakshman.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/raghupati_ki_jai_bole_lakshman.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Aayenge",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Ayenge",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_ayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_ayenge.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Chandra",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_chandra.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_chandra.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Darshan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_darshan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_darshan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Narayan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_narayan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_narayan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram 2",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram_2.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram_2.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram 3",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram_3.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram_3.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan Flute",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_flute.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_flute.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan Title Tone",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan_title_tone.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan_title_tone.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ramayan",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ramayan.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ramayan.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ram Prabhu Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shree_ram_prabhu_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shree_ram_prabhu_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shri Ram Jai Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ram_jai_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ram_jai_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ram Ram Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ram_ram_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ram_ram_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ramchandra Kripalu Bgm",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu_bgm.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu_bgm.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ramchandra Kripalu",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Siya Ram Naam",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/siya_ram_naam.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/siya_ram_naam.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -598,289 +920,151 @@
     "isWallpaperShuffle": true,
     "wallpapers": [
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/da04d0ce49bd2c7524977003aa1ce1bc.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_1.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/91HlCa3TiQL1484909663.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_2.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/god_ganesha.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_3.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c3e0e37dd411273e9ef703de71b5ff8f.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_4.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700814.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_5.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/channels4_profile.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_6.png"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/cropped-2-13.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_7.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/c2a0dac757a83f1e7a529c1ca056e3e6.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_8.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/381994.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_9.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/God-Ganesh-Ji-Image-HD-Mobile-Wallpaper-Download.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_10.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fc60daeb063a28489cdbfb997b584ba3.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_11.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700860.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_12.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/f4e1a97ea68b2660297700b36b56ba4c.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_13.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/dc4653986ff1f0c6010d7714db06ef9d.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_14.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3659419.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_15.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/71jv6Zm7OTL.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_16.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3595499.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_17.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download+(1).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_18.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_19.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download+(2).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_20.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(4).jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_21.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/ganesh-mobile-j023julbofgabj9r.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_22.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/22052021014856m5tg.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_23.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(4).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_24.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images.jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_25.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fedfd676987d47295691d9b826988818.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_26.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700719.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_27.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700771.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_28.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/cba0c888e3121c6f2980529660d6d942.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_29.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-ganesh-ganpati-with-sunset-effect-ganesh-ganpati-sunset-effect-half-phase-half-face.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_30.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(3).jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_31.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700681.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_32.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/lord-ganesha-v0-s0mrlo9c9q3b1.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_33.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-krishna-ganapathi-best-cute-elwphant-ganesh-ganesha-vinayaka.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_34.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/desktop-wallpaper-shri-ganesh-beautiful-decoration.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_35.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/beautiful-ganesh-lingam-idolmurti-idols-342_900x.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_36.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(6).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_37.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/20547478.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_38.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/kwzgl_512.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_39.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/61cPGla417L.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_40.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/fca7ac55791036d7589c4201d9bd592c.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_41.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(5).jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_42.png"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-ganapati-bappa-ganesh-new-thumbnail.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_43.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(3).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_44.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5426304.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_45.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(5).jpeg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_46.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/d80jw_512.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_47.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images.webp"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_48.jpg"
         },
         {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/g2.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download+(5).jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5321620.webp"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3726871.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/179318d079b1e704cac67ac1225d51a0.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/dffab35d9f0e0682086632ec2f15c03c.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(6).jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(2).jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/SCN22_(1)_zoom.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2412275.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/39edc69b3b2b059379e59279ecd655a4+(1).jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2981b4c464a67761cc7646612184b536.png"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/f9cb90554101bdcc39dc1354afb5e491.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/6-3-6-35-461345-statuestudio-15-2-original-imag6fxfadtsvwpx.webp"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/0a0b858c1f308efcd6cabf231ed28357.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/a703cc492e52715641d3571e8c026898.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(2).jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/717t87Z%2B0eL._AC_UF894%2C1000_QL80_.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/kiyzXHE.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/d65d262a6c81d2942e746d0e6fbc4994.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/peakpx.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download.jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download+(3).jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700712.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/MRC56__81VwLjWYaOL._SL1500_.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/images+(1).jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/g1.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/download+(4).jpeg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700752.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/2864688.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/24860f5b1d1767f8701ca808bfe7b91a.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/f87438adfb48aa8edaaa3bd71da9f4fb.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/5700813.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/Unique-Cute-Ganesha-Images.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/9dd7cef378adcd2e0d0d4f439dfafe6f.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(1)+copy.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+(1).jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/0384e3992cca30a02b667af82e823c94.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/g3.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-ganpati-bappa-ganesha-ganpati-bappa-thumbnail.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/modern_ganesha_table_decor.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-ganapathi-bappa-elephant-ganesh-ganesha-god-jai-ganesh-lord-moriya-vinayaka-thumbnail.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/HD-wallpaper-ganpati-ganpati-bappa-thumbnail.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/1103392.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/mobile-wallpaper-ganesh-ji-ki.jpg"
-        },
-        {
-            "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/3327613.jpg"
+            "link": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/Shri_Ram_49.jpg"
         }
     ],
     "settingsPage": {

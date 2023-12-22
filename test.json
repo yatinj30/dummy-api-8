@@ -10,18 +10,50 @@
                 "isShuffle": false,
                 "songs": [
                     {
-                        "title": "Aathma Rama",
-                        "subTitle": "",
-                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
-                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Hamare Sath Shree Raghunath",
                         "subTitle": "",
                         "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hamare_sath_shree_ram.mp3",
                         "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hamare_sath_shree_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Hum Katha Sunate",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Aayenge",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Ram Siya Ram",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Shree Ramchandra Kripalu",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Aathma Rama",
+                        "subTitle": "",
+                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/aathma_rama.mp3",
+                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/aathma_rama.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -62,14 +94,6 @@
                         "subTitle": "",
                         "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate_ram.mp3",
                         "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate_ram.png",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Hum Katha Sunate",
-                        "subTitle": "",
-                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/hum_katha_sunate.mp3",
-                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/hum_katha_sunate.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -178,14 +202,6 @@
                         "otherImageItems": []
                     },
                     {
-                        "title": "Ram Aayenge",
-                        "subTitle": "",
-                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_aayenge.mp3",
-                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_aayenge.png",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Ram Ayenge",
                         "subTitle": "",
                         "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_ayenge.mp3",
@@ -214,14 +230,6 @@
                         "subTitle": "",
                         "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_narayan.mp3",
                         "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_narayan.png",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Ram Siya Ram",
-                        "subTitle": "",
-                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/ram_siya_ram.mp3",
-                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/ram_siya_ram.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -294,14 +302,6 @@
                         "subTitle": "",
                         "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu_bgm.mp3",
                         "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu_bgm.png",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
-                        "title": "Shree Ramchandra Kripalu",
-                        "subTitle": "",
-                        "songLink": "https://ram-app.s3.ap-south-1.amazonaws.com/Ringtone/shri_ramchandra_kripalu.mp3",
-                        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/shri_ramchandra_kripalu.png",
                         "downloadLink": "",
                         "otherImageItems": []
                     },

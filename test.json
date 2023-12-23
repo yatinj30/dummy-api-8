@@ -1,6 +1,6 @@
 {
     "appTitle": "Shree Ram Ringtones & Wallpaper",
-    "appSplashLogo": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+    "appSplashLogo": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
     "mainScreenContent": {
         "mainListView": [
             {
@@ -1068,7 +1068,7 @@
         }
     ],
     "settingsPage": {
-        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+        "mainImage": "https://ram-app.s3.ap-south-1.amazonaws.com/Images/playstore.png",
         "privacyPolicy": "https://www.freeprivacypolicy.com/live/549e35bb-4390-4589-8ad2-f89ca1ada428",
         "termsCondition": "https://www.freeprivacypolicy.com/live/202c0bde-1847-4237-b892-91e19e0f2348",
         "shareTheApp": "Hey! I found a very good application to download Lord Ram Ringtones & Aarti. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.ramringtonesnew",

@@ -1458,7 +1458,7 @@
         "moreApp": "https://play.google.com/store/apps/developer?id=Unique+Tech+Media"
     },
     "adsData": {
-        "showAds": false,
+        "showAds": true,
         "onBoardingScreen": {
             "bannerAd": false
         },
@@ -1469,7 +1469,7 @@
             "nativeAd": false
         },
         "setRingtoneScreen": {
-            "nativeAd": false
+            "nativeAd": true
         }
     }
 }

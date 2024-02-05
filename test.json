@@ -1484,7 +1484,7 @@
             "nativeAd": false
         },
         "setRingtoneScreen": {
-            "nativeAd": true
+            "nativeAd": false
         }
     }
 }
